@@ -1,0 +1,10 @@
+D:\Учеба\4 сем\курсовой\Environment\Environment\bin\Debug\Environment.exe.config
+D:\Учеба\4 сем\курсовой\Environment\Environment\bin\Debug\Environment.exe
+D:\Учеба\4 сем\курсовой\Environment\Environment\bin\Debug\Environment.pdb
+D:\Учеба\4 сем\курсовой\Environment\Environment\obj\Debug\Environment.Insert.resources
+D:\Учеба\4 сем\курсовой\Environment\Environment\obj\Debug\Environment.Properties.Resources.resources
+D:\Учеба\4 сем\курсовой\Environment\Environment\obj\Debug\Environment.Registration.resources
+D:\Учеба\4 сем\курсовой\Environment\Environment\obj\Debug\Environment.csproj.GenerateResource.cache
+D:\Учеба\4 сем\курсовой\Environment\Environment\obj\Debug\Environment.csproj.CoreCompileInputs.cache
+D:\Учеба\4 сем\курсовой\Environment\Environment\obj\Debug\Environment.exe
+D:\Учеба\4 сем\курсовой\Environment\Environment\obj\Debug\Environment.pdb
